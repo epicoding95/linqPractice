@@ -1,0 +1,11 @@
+/Users/KobysMac/Desktop/newPractice/bin/Debug/netcoreapp2.2/newPractice.deps.json
+/Users/KobysMac/Desktop/newPractice/bin/Debug/netcoreapp2.2/newPractice.runtimeconfig.json
+/Users/KobysMac/Desktop/newPractice/bin/Debug/netcoreapp2.2/newPractice.runtimeconfig.dev.json
+/Users/KobysMac/Desktop/newPractice/bin/Debug/netcoreapp2.2/newPractice.dll
+/Users/KobysMac/Desktop/newPractice/bin/Debug/netcoreapp2.2/newPractice.pdb
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.csprojAssemblyReference.cache
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.csproj.CoreCompileInputs.cache
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.AssemblyInfoInputs.cache
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.AssemblyInfo.cs
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.dll
+/Users/KobysMac/Desktop/newPractice/obj/Debug/netcoreapp2.2/newPractice.pdb
